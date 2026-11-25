@@ -11,7 +11,7 @@ from pathlib import Path
 
 def epitaph() -> str:
     """Return the epitaph line, exactly as it is carved."""
-    return "I told you I was sick."
+    return "Tell my wife I loved her cooking, especially tonight's soup."
 
 
 def write_entry() -> Path:
